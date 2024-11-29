@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "anythingllm-doc-sync"
+version = "0.1.0"
+description = "A simple repo for testing the functionality of the Anythingllm doc sync action."
+authors = ["mikejhan4455 <mikejhan4455@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
